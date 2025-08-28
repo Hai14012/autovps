@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid="phodddoclkohfjcclahcbbkbemlignli">
-    <updatecheck codebase="https://raw.githubusercontent.com/Hai14012/etx_ig/main/nuoiig.crx" version="3.0" />
-  </app>
-
-</gupdate>
